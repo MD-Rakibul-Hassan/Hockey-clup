@@ -1,0 +1,30 @@
+/* Manrope font form  google fonts.com  */
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+/* Global styles for the webpage  */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Manrope;
+}
+/* Max-width ot the page  */
+.containers {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+/* Reuseable button for this overall site  */
+.btns {
+    border-radius: 8px;
+    background: #FF4240;
+    padding: 10px 20px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+/* Commonly used color  */
+.common-color {
+   color: #FF4240;
+}
